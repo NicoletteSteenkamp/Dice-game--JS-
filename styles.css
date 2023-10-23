@@ -23,7 +23,7 @@ body::before {
 }
 
 body {
-  background-image: url(./images/background-img4.avif);
+  background-image: url(./images/bg-img4.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0;
@@ -40,8 +40,8 @@ h1 {
 
 p {
   font-size: 2rem;
-  color: #4ecca3;
-  font-family: "Indie Flower", cursive;
+  color: white;
+  font-family: "Indie Flower";
 }
 
 img {
@@ -54,7 +54,7 @@ img {
 
 .butn {
   background: #4ecca3;
-  font-family: cursive;
+  font-family: "Indie Flower", cursive;
   border-radius: 7px;
   color: #ffff;
   font-size: 30px;
